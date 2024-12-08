@@ -6,8 +6,8 @@ import java.sql.*;
 public class Login {
     static final String DB_URL = "jdbc:mysql://localhost:3306/test";
     // 数据库的用户名与密码
-    static final String username = "root";
-    static final String password = "lvxin20020315";
+    static final String username = "";
+    static final String password = "";
     public Connection DataBase_connection = null;
     public Statement DataBase_state = null;
 
